@@ -2,7 +2,7 @@
 
 Author: Rafael Mota Gregorut
 
-[Markdown file](https://github.com/rafaelgregorut/tech-writing-exercises/blob/93625fabe72a4052486f144c3de61694081447ff/TechnicalWritingExercises.md)
+[Markdown file](./TechnicalWritingExercises.md)
 
 ## Tech Writing Exercise 1
 
@@ -12,39 +12,39 @@ This tutorial explains the basic playback functions of the Digital Video Recorde
 
 |DVR Front Panel|DVR Remote Control|
 |-|-|
-|![DVR frontal panel](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/DVRFrontPanel.png?raw=true) <br/>_The DVR has a minimalist front panel._|![DVR remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/RemoteControlHorizontal_min.png?raw=true) <br/>_The remote control allows you to access the DVR functions._|
+|![DVR frontal panel](./media/DVRFrontPanel.png) <br/>_The DVR has a minimalist front panel._|![DVR remote control](./media/RemoteControlHorizontal_min) <br/>_The remote control allows you to access the DVR functions._|
 
 ### DVR Playback Functions
 The DVR has the following playback functions accessible through the remote control: 
 
-* Play ![The Play button on the remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/PlayIcon.png?raw=true) 
-* Pause ![The Pause button on the remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/PauseIcon.png?raw=true) 
-* Stop ![The Stop button on the remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/StopIcon.png?raw=true) 
-* Rewind ![The Rewind button on the remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/RewindIcon.png?raw=true) 
-* Fast-forward ![The Fast-forward button on the remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/FFIcon.png?raw=true) 
+* Play ![The Play button on the remote control](./media/PlayIcon.png) 
+* Pause ![The Pause button on the remote control](./media/PauseIcon.png) 
+* Stop ![The Stop button on the remote control](./media/StopIcon.png) 
+* Rewind ![The Rewind button on the remote control](./media/RewindIcon.png?raw=true) 
+* Fast-forward ![The Fast-forward button on the remote control](./media/FFIcon.png) 
 
 To use one of the playback fucntions, press the respective button on the remote control. 
 In the next section, let's go through the steps to record a TV show. 
 
 ### How To Record a TV Show
 Take the following steps to record a TV show: 
-1. Press the Guide button ![Press the Guide button on the remote control.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/GuideButton.png?raw=true) on the remote control. 
-2. Use the Arrow buttons ![Use the Arrow buttons on the remote control to navigate through the TV guide.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/ArrowsButtons.png?raw=true) on the remote control to navigate through the TV guide. 
+1. Press the Guide button ![Press the Guide button on the remote control.](./media/GuideButton.png) on the remote control. 
+2. Use the Arrow buttons ![Use the Arrow buttons on the remote control to navigate through the TV guide.](./media/ArrowsButtons.png) on the remote control to navigate through the TV guide. 
 3. Select the TV show you want to record. 
 
-    ![Select the TV show you want to record.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/TV1.png?raw=true) 
+    ![Select the TV show you want to record.](./media/TV1.png) 
 
     _The TV guide allows you to navigate through channels and check their schedules._ 
-4. Press the Record button ![Press the Record button on the remote controll.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/RecordIcon.png?raw=true) on the remote control. 
+4. Press the Record button ![Press the Record button on the remote controll.](./media/RecordIcon.png) on the remote control. 
 5. Select Yes in the dialog. 
 
-    ![Select Yes in the dialog.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/Dialog.png?raw=true) 
+    ![Select Yes in the dialog.](./media/Dialog.png) 
 
     _Confirm that you wish to record the selected TV show._ 
-5. Press the OK button ![](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/OKButton.png?raw=true) on the remote control to confirm. 
+5. Press the OK button ![](./media/OKButton.png) on the remote control to confirm. 
 6. Check that the Record icon is displayed on the TV show you selected to record. 
 
-    ![Check that the Record icon is displayed on the TV show.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/TV2.png?raw=true) 
+    ![Check that the Record icon is displayed on the TV show.](./main/media/TV2.png) 
 
     _The TV guide displays the Record icon on the TV show that is set to be recorded._ 
 
