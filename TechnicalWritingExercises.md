@@ -12,7 +12,7 @@ This tutorial explains the basic playback functions of the Digital Video Recorde
 
 |DVR Front Panel|DVR Remote Control|
 |-|-|
-|![DVR frontal panel](./media/DVRFrontPanel.png) <br/>_The DVR has a minimalist front panel._|![DVR remote control](./media/RemoteControlHorizontal_min) <br/>_The remote control allows you to access the DVR functions._|
+|![DVR frontal panel](./media/DVRFrontPanel.png) <br/>_The DVR has a minimalist front panel._|![DVR remote control](./media/RemoteControlHorizontal_min.png) <br/>_The remote control allows you to access the DVR functions._|
 
 ### DVR Playback Functions
 The DVR has the following playback functions accessible through the remote control: 
@@ -20,7 +20,7 @@ The DVR has the following playback functions accessible through the remote contr
 * Play ![The Play button on the remote control](./media/PlayIcon.png) 
 * Pause ![The Pause button on the remote control](./media/PauseIcon.png) 
 * Stop ![The Stop button on the remote control](./media/StopIcon.png) 
-* Rewind ![The Rewind button on the remote control](./media/RewindIcon.png?raw=true) 
+* Rewind ![The Rewind button on the remote control](./media/RewindIcon.png) 
 * Fast-forward ![The Fast-forward button on the remote control](./media/FFIcon.png) 
 
 To use one of the playback fucntions, press the respective button on the remote control. 
@@ -44,7 +44,7 @@ Take the following steps to record a TV show:
 5. Press the OK button ![](./media/OKButton.png) on the remote control to confirm. 
 6. Check that the Record icon is displayed on the TV show you selected to record. 
 
-    ![Check that the Record icon is displayed on the TV show.](./main/media/TV2.png) 
+    ![Check that the Record icon is displayed on the TV show.](./media/TV2.png) 
 
     _The TV guide displays the Record icon on the TV show that is set to be recorded._ 
 
