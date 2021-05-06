@@ -67,7 +67,9 @@ _Please contact our support engineers for more details on ClusterLink._
 
 ```java
 /**
-* Returns a String with the left part of the base String, the inserted String at the offset index and the right part of the base String. Initial spaces in the inserted String are ignored.
+* Returns a String with the left part of the base String, 
+* the inserted String at the offset index and the right part of the base String. 
+* Initial spaces in the inserted String are ignored.
 * 
 * <p>
 * <pre>
@@ -84,7 +86,9 @@ _Please contact our support engineers for more details on ClusterLink._
 *
 * @param offset the index in <code>s</code> where to place <code>insert</code>
 *
-* @return the new string with the left part of <code>s</code>, the <code>insert</code> placed at the index <code>offset</code> and the right part of <code>s</code>. Returns <code>null</code> if <code>s</code> is <code>null</code>.
+* @return the new string with the left part of <code>s</code>, 
+* the <code>insert</code> placed at the index <code>offset</code> and 
+* the right part of <code>s</code>. Returns <code>null</code> if <code>s</code> is <code>null</code>.
 *
 */
 public static String insert(String s, String insert, int offset) {
