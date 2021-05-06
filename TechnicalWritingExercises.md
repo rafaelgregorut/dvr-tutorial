@@ -1,7 +1,8 @@
 # Technical Writing Exercises
 
 Author: Rafael Mota Gregorut
-Markdown file:
+
+[Markdown file](https://github.com/rafaelgregorut/tech-writing-exercises/blob/93625fabe72a4052486f144c3de61694081447ff/TechnicalWritingExercises.md)
 
 ## Tech Writing Exercise 1
 
@@ -44,7 +45,7 @@ Take the following steps to record a TV show:
 6. Check that the Record icon is displayed on the TV show you selected to record. 
 
     ![Check that the Record icon is displayed on the TV show.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/TV2.png?raw=true) 
-    
+
     _The TV guide displays the Record icon on the TV show that is set to be recorded._ 
 
 Once these steps are performed, the selected TV show is set to be recorded. 
