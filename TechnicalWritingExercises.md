@@ -28,7 +28,7 @@ In the next section, let's go through the steps to record a TV show.
 ### How To Record a TV Show
 Take the following steps to record a TV show: 
 1. Press the Guide button ![Press the Guide button on the remote control.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/GuideButton.png?raw=true) on the remote control. 
-2. Use the arrow buttons ![Use the arrow buttons on the remote control to navigate through the TV guide.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/ArrowsButtons.png?raw=true) on the remote control to navigate through the TV guide. 
+2. Use the Arrow buttons ![Use the Arrow buttons on the remote control to navigate through the TV guide.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/ArrowsButtons.png?raw=true) on the remote control to navigate through the TV guide. 
 3. Select the TV show you want to record. 
 
     ![Select the TV show you want to record.](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/TV1.png?raw=true) 
