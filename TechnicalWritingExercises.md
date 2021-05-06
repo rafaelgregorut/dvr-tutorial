@@ -8,7 +8,7 @@ Author: Rafael Mota Gregorut
 
 This tutorial explains the basic playback functions of the Digital Video Recorder (DVR) and how to record a TV show. This tutorial does not explain how to install the DVR.
 
-|_DVR frontal panel_|_DVR remote control_|
+|DVR Front Panel|DVR Remote Control|
 |-|-|
 |![DVR frontal panel](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/DVRFrontPanel.png?raw=true)|![DVR remote control](https://github.com/rafaelgregorut/dvr-tutorial/blob/main/media/RemoteControlHorizontal_min.png?raw=true)|
 
