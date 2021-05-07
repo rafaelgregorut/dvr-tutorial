@@ -2,8 +2,6 @@
 
 Author: Rafael Mota Gregorut
 
-[Markdown file](./TechnicalWritingExercises.md)
-
 ## Tech Writing Exercise 1
 
 ### Introduction
@@ -23,7 +21,7 @@ The DVR has the following playback functions accessible through the remote contr
 * Rewind ![The Rewind button on the remote control](./media/RewindIcon.png) 
 * Fast-forward ![The Fast-forward button on the remote control](./media/FFIcon.png) 
 
-To use one of the playback fucntions, press the respective button on the remote control. 
+To use one of the playback functions, press the respective button on the remote control. 
 In the next section, let's go through the steps to record a TV show. 
 
 ### How To Record a TV Show
@@ -53,7 +51,7 @@ Once these steps are performed, the selected TV show is set to be recorded.
 ----
 ## Tech Writing Exercise 2
 
-This article contains insights from the optmization benchmark study of 2010. It presents general concepts and issues of the Ehcache cluster replication, and how to solve them with ClusterLink, a new Liferay Portal Enterprise Edition (EE) feature. 
+This article contains insights from the optimization benchmark study of 2010. It presents general concepts and issues of the Ehcache cluster replication, and how to solve them with ClusterLink, a new Liferay Portal Enterprise Edition (EE) feature. 
 
 Ehcache supports clusters and by default uses RMI replication, which is a point-to-point communication. This solution is not scalable for a large system since each cluster sends the same event to all other clusters, causing a traffic issue. 
 
@@ -62,7 +60,7 @@ For each cache entity, Ehcache creates a replication thread that consumes memory
 * The system will consume 200MB of stack memory, considering a thread stack size of 2MB. 
 * A single node of the system might consume 500MB of heap memory. 
 
-An optimized solution should consider following points: 
+An optimized solution should consider the following aspects: 
 
 * The majority of the threads are likely inactive for most of the time and only start working when they need to communicate with remote peers. 
 * The high number of threads frequently causes an overhead to switch context. 
@@ -71,7 +69,7 @@ Although a newer Ehcache version supports JGroups' Replicator and solves the com
 
 ClusterLink, an EE feature, solves both the communication traffic and thread replication problems. ClusterLink is an abstract communication channel that implements by default a JGroups' UDP multicast. 
 
-ClusterLink provides a dedicate group of dispatching threads to deliver cache cluster events to remote peers. Since all events will go through one channel, ClusterLink merges modifications to the same cache object that are close enough and notifies remote peers only once. 
+ClusterLink provides a dedicated group of dispatching threads to deliver cache cluster events to remote peers. Since all events will go through one channel, ClusterLink merges modifications to the same cache object that are close enough and notifies remote peers only once. 
 
 Please contact our support engineers for more details on ClusterLink. 
 
